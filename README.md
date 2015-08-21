@@ -3,6 +3,9 @@ Thumbd
 
 Build Status: [![Build Status](https://travis-ci.org/bcoe/thumbd.png)](https://travis-ci.org/bcoe/thumbd)
 
+NOTE1: This is a modified version of thumbd by Benjamin E. Coe, as lightly modified by Justin Shreve for use by Chargeback.com. 
+NOTE2: This package has a very liberal license, making it suitable for commercial use.
+
 Thumbd is an image thumbnailing server built on top of Node.js, SQS, S3, and ImageMagick.
 
 You can easily run Thumbd on *Heroku*. Simply set the appropriate environment variables with _config:set_ and deploy using the _Procfile_ provided.
